@@ -55,4 +55,4 @@ Previous videos:
 ================
 Kali Installation: https://youtu.be/VAMP8DqSDjg
 WPA2 GPU password cracking: https://youtu.be/J8A8rKFZW-M
-Wordlists (rockyou): https://youtu.be/rgWcguAg-XA
+Wordlists (rockyou): https://drive.google.com/file/d/1dZLWjxyKbITdrzPo-ZJHIorBWSh6_iW3/view?usp=sharing
